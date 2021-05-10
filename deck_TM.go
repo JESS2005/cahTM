@@ -2,8 +2,8 @@ package cardsagainstdiscord
 
 func init() {
 	pack := &CardPack{
-		Name:        "reject",
-		Description: "Reject Packs - 1, 2, and 3",
+		Name:        "TM",
+		Description: "A custom Trailmakers pack",
 		Prompts: []*PromptCard{
 			&PromptCard{Prompt: `Test Test Test %s Test.`},
 			&PromptCard{Prompt: `Test Test Test %s Test.`},
